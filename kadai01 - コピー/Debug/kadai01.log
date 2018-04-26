@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kusano.erisa\documents\dx21\kadai01 - コピー\main.cpp(170): warning C4715: 'Kekka': 値を返さないコントロール パスがあります。
+  kadai01.vcxproj -> C:\Users\kusano.erisa\Documents\DX21\kadai01 - コピー\Debug\kadai01.exe
+  kadai01.vcxproj -> C:\Users\kusano.erisa\Documents\DX21\kadai01 - コピー\Debug\kadai01.pdb (Full PDB)
